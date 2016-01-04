@@ -1,0 +1,13 @@
+{
+    "name": "vison/devuitls",
+    "description": "common use develop library",
+    "require": {
+        "php": "5"
+    },
+    "authors": [
+        {
+            "name": "visonforcoding",
+            "email": "caowenpeng1990@126.com"
+        }
+    ]
+}
