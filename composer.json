@@ -2,7 +2,7 @@
     "name": "visonforcoding/devutils",
     "description": "common use develop library",
     "require": {
-        "php": "5"
+        "php": ">=5.4.16"
     },
     "authors": [
         {
