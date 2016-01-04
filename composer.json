@@ -1,5 +1,5 @@
 {
-    "name": "vison/devuitls",
+    "name": "visonforcoding/devutils",
     "description": "common use develop library",
     "require": {
         "php": "5"
