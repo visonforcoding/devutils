@@ -1,6 +1,6 @@
 <?php
 
-namespace Utils;
+namespace Visonforcoding\Lib\Utils;
 
 class HttpClient {
 

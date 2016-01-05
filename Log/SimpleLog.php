@@ -32,6 +32,7 @@ class SimpleLog {
         $pre_str = '[' . date('Y-m-d H:i:s') . '][' . $flag . ']';
         $message = str_replace(PHP_EOL, null, $message);
         file_put_contents($log_name, $pre_str . $message . "\r\n", FILE_APPEND);
+        fclose($log_name);
     }
 
     public static function praseLog($log) {

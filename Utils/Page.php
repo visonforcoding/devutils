@@ -13,7 +13,7 @@
  *   
  */
 
-namespace Utils;
+namespace Visonforcoding\Lib\Utils;
 
 class Page {
 

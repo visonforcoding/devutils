@@ -1,6 +1,6 @@
 <?php
 
-namespace Utils;
+namespace Visonforcoding\Utils;
 
 class Upload {
 
