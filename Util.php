@@ -5,7 +5,7 @@
  * Created on   :   2015-5-22 17:19:18 by 曹文鹏 , caowenpeng1990@126.com
  */
 
-namespace Utils;
+namespace visonforcoding;
 
 class Util {
 
